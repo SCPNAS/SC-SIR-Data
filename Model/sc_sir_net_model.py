@@ -153,5 +153,3 @@ for i in range(sim_num):
         sir_net_rmse.append(tmp)
 avg_sir_net_rmse = np.mean(sir_net_rmse)
 std_sir_net_rmse = np.std(sir_net_rmse)
-print(avg_sir_net_rmse, std_sir_net_rmse)
-
