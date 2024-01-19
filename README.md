@@ -8,3 +8,9 @@ Networks allow us to describe a wide range of interaction phenomena that occur i
 + Dataset: including albemarle, charlotte, clarke, hanover, highland, prince edward counties data used in our experiments
 
 + Model: implementation of our SC-SIR model
+
+### Requirements
+Python 3.10.5, Networkx 2.8.4, Numpy 1.22.4
+
+Please cite our work if you find useful.
+
